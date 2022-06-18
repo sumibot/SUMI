@@ -61,7 +61,7 @@ Add FFmpeg to PATH environment variable
 * then Deploy The Bot From [Here](https://heroku.com/deploy)
 * Wait 5-10 Min To Deploy 
 * After Deploying On The Worker And Check The Logs
-Owner WhatsApp no [Here](https://wa.me/94722427578
+* Owner WhatsApp no [Here](https://wa.me/94722427578
 
 </details>
 
