@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://i.ibb.co/Hzy1S56/IMG-20220609-WA0091.jpg" alt="nz" width="350"/>
+<img src="https://i.ibb.co/Hzy1S56/IMG-20220612-WA0208.jpg" alt="nz" width="350"/>
 </p>
 
 ## SUMI MD WHATSAPP BOT
@@ -61,6 +61,7 @@ Add FFmpeg to PATH environment variable
 * then Deploy The Bot From [Here](https://heroku.com/deploy)
 * Wait 5-10 Min To Deploy 
 * After Deploying On The Worker And Check The Logs
+Owner WhatsApp no [Here](https://wa.me/94722427578
 
 </details>
 
