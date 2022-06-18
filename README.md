@@ -2,9 +2,9 @@
 <img src="https://i.ibb.co/Hzy1S56/IMG-20220609-WA0091.jpg" alt="nz" width="350"/>
 </p>
 
-## QUEEN BIXBY MD WHATSAPP BOT
+## SUMI MD WHATSAPP BOT
 
-> <a href="https://youtu.be/uzMbW5v9QLE"><img src="https://img.shields.io/badge/Tutorial-Video-ff0000?style=for-the-badge&logo=youtube&logoColor=ff000000&link=https://www.youtube.com/c/BOTINDO" /><br>
+> <a href="https://wa.me/+9474247578"><img src="https://img.shields.io/badge/Tutorial-Video-ff0000?style=for-the-badge&logo=youtube&logoColor=ff000000&link=https://www.youtube.com/c/BOTINDO" /><br>
 
 > [Automated Multi Device whatsapp bot created](https://github.com/darkalphaxteam/Queen-Bixby-MD) by [darkalphaxteam](github.com/darkalphaxteam)
 
@@ -33,7 +33,7 @@ Click WhatsApp logo to Join Support Group 👇
 
 <br>
 
-  <a href="https://chat.whatsapp.com/KqO4Yusx8jTG43sGouoXdO" target="blank"><img align="center" src="https://github.com/Alien-alfa/PublicBot/blob/main/wlogo.svg.png " /></a>
+  <a href="https://chat.whatsapp.com/LLbFBtwJj4rFlKm7bAbPME" target="blank"><img align="center" src="https://github.com/Alien-alfa/PublicBot/blob/main/wlogo.svg.png " /></a>
 
 </p>
 
@@ -141,7 +141,7 @@ npm i -g pm2 && pm2 start index.js && pm2 save && pm2 logs
 
 ## ```Connect With Me```
 <p align="center">
-<a href="https://wa.me/94711421243"><img src="https://img.shields.io/badge/Contact Thinura-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+<a href="https://wa.me/94742427578"><img src="https://img.shields.io/badge/Contact Thinura-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 <a href="https://youtube.com/channel/UCqoUjPvDdb0kjXNYdvPPpHQ"><img src="https://img.shields.io/badge/Subscribe Nexus-ff0000?style=for-the-badge&logo=youtube&logoColor=ff000000&link=https://www.youtube.com/c/BOTINDO" /><br>
 </p>
 
