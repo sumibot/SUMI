@@ -2,7 +2,7 @@
 
 
 
-  ❖❖❖❖❖</h1><a href="https://github.com/sumibot"><img src="https://github.com/sumibothttps://wallpapers.com/wallpapers/dark-link-wallpaper-nbdj8uberi5gqi28.html" width="250" height="250"></a><h3>✬✬ SUMI BOT Is World Best Whatsapp Bot Ever ✬✬</h3></div>
+  ❖❖❖❖❖</h1><a href="https://github.com/sumibot"><img src="https://github.com/sumibot" width="250" height="250"></a><h3>✬✬ SUMI BOT Is World Best Whatsapp Bot Ever ✬✬</h3></div>
 
 
 ***
