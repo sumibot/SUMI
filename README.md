@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://i.ibb.co/Hzy1S56/IMG-20220612-WA0208.jpg" alt="nz" width="350"/>
+<img src="https://i.ibb.co/Hzy1S56/IMG-20220612-WA0212.jpg" alt="nz" width="350"/>
 </p>
 
 ## SUMI MD WHATSAPP BOT
