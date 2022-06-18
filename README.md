@@ -57,7 +57,7 @@ Add FFmpeg to PATH environment variable
 <b><details><summary>Start via Heroku</summary></b>
 
 * Scan QR In Your Whatsapp From [Here](https://replit.com/@nexusNw/Md-Scanner?outputonly=1&lite=1)
-* Fork This Repo By Clicking [Here](https://github.com/darkalphaxteam/Queen-Bixby-MD/fork)
+* Fork This Repo By Clicking [Here](https://github.com/sumibot/SUMI/blob/main/README.md)
 * then Deploy The Bot From [Here](https://heroku.com/deploy)
 * Wait 5-10 Min To Deploy 
 * After Deploying On The Worker And Check The Logs
