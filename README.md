@@ -1,5 +1,6 @@
 <p align="center">
-<img src="https://lol.fandom.com/wiki/Dark_Tigers/IMG-20220612-WA0212.jpg" alt="nz" width="350"/>
+<img src="![IMG-20220612-WA0212](https://user-images.githubusercontent.com/107538458/174461455-b4f9e32a-5fb2-4384-b6bf-aa48fe03d23e.jpg)
+https://lol.fandom.com/wiki/Dark_Tigers/IMG-20220612-WA0212.jpg" alt="nz" width="350"/>
 </p>
 
 ## SUMI MD WHATSAPP BOT
