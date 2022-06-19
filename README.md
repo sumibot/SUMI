@@ -4,7 +4,7 @@
 
 ## SUMI MD WHATSAPP BOT
 
-> <a href="https://wa.me/+9474247578?"><img src="https://img.shields.io/badge/Tutorial-Video-ff0000?style=for-the-badge&logo=youtube&logoColor=ff000000&link=https://www.youtube.com/c/BOTINDO" /><br>
+> <a href="https://wa.me/+94742427578?"><img src="https://img.shields.io/badge/Tutorial-Video-ff0000?style=for-the-badge&logo=youtube&logoColor=ff000000&link=https://www.youtube.com/c/BOTINDO" /><br>
 
 > [Automated Multi Device whatsapp bot created](https://github.com/darkalphaxteam/Queen-Bixby-MD) by [darkalphaxteam](github.com/darkalphaxteam)
 
